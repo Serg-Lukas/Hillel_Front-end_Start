@@ -1,13 +1,6 @@
-
-  
 body {
     /* background-color: #504DEE; */
     /* color: #fd0303; */
-}
-
-header {
-    /* display: flex; */
-    /* align-items: center; */
 }
 
 .inter-bold {
@@ -16,75 +9,91 @@ header {
   font-weight: 700;
   font-size: 68px;
   font-style: normal;
-  font-variation-settings:
-    "slnt" 0;
+  font-variation-settings: "slnt" 0;
 }
+
+.inter-semibold {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    /* font-size: 16px; */
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+  }
 
 .inter-regular {
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
-    font-size: 16px;
+    /* font-size: 16px; */
     font-style: normal;
-    font-variation-settings:
-      "slnt" 0;
-  }
+    font-variation-settings: "slnt" 0;
+}
+
+. {
+
+}
+ 
+. {
+
+}
+
+. {
+
+}
+
+. {
+
+}
+
+. {
+
+}
+
+. {
+
+}
+
+. {
+
+}
+
+. {
+
+}
+
+. {
+
+}
+
+. {
+
+}
+
+. {
+
+}
+
+. {
+
+}
+
+. {
+
+}
+
+. {
+
+}
+
+header {
+    /* display: flex; */
+    /* align-items: center; */
+}
 
 .line {
     /* height: 1px; */
     /* background: transparent; */
-}
-
-. {
-
-}
-
-. {
-
-}
-
-. {
-
-}
-
-. {
-
-}
-
-. {
-
-}
-
-. {
-
-}
-
-. {
-
-}
-
-. {
-
-}
-
-. {
-
-}
-
-. {
-
-}
-
-. {
-
-}
-
-. {
-
-}
-
-. {
-
 }
 
 
