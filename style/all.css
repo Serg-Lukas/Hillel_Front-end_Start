@@ -203,12 +203,90 @@ body {
 .learn {
     background: #19191C;
     color: #FBFBFC;
-    padding: 168px 0 0;
-    position: relative;
+    padding: 168px 0 159px;
+    position: relative; /* for offer__hero-man z-index */
 }
+.learn__section {
+    display: flex;
+    justify-content: space-between;
+}
+.learn__title {
+    /* font-weight: 700; */
+    font-size: 58px;
+    line-height: 1;
+    color: #FBFBFC;
+    margin: 0 0 28px;
+}
+.learn__description {
+    /* font-weight: 400; */
+    font-size: 18px;
+    line-height: 28px;
+    color: #EFEFF2;
+    margin: 0 0 24px;
+    max-width: 588px;
+}
+.learn__counters {
+    display: flex;
+    gap: 86px;
+}
+.learn__counter-item {
+    width: 178px;
+    height: 119px;
+    border-bottom: 5px solid #FBFBFC;
+    box-sizing: border-box;
+}
+.learn__counter-number {
+    /* font-weight: 700; */
+    font-size: 58px;
+    line-height: 1;
+    color: #FBFBFC;
+    margin: 0;
+}
+.learn__counter-description {
+    /* font-weight: 400; */
+    font-size: 18px;
+    line-height: 28px;
+    color: #EFEFF2;
+    margin: 8px 0 0px;
+}
+. {
 
+}
+. {
 
+}
+. {
 
+}
+. {
+
+}
+. {
+
+}
+. {
+
+}
+. {
+
+}. {
+
+}
+. {
+
+}
+. {
+
+}
+. {
+
+}
+. {
+
+}
+. {
+
+}
 
 
 
