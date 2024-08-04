@@ -332,51 +332,61 @@ body {
 /* DISCOVER SECTION END */
 
 /* FIND-PROGRAM SECTION */
-. {
+.find-program {
+    background-color: #DEEFE4;
+    padding: 168px 0;
+}
+.find-program__section {
+    display: flex;
+}
+.find-program__title {
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 1;
+    color: #19191C;
+    margin: 0 0 28px;
+}
+.find-program__description {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #19191C;
+    margin: 0px;
+}
+.find-program__text {
+    min-width: 720px;
+}
+input {
+    display: block;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #19191C;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #19191C;
+    padding-bottom: 6px;
+    width: 710px;
+    outline: none;
+}
+input:first-child {
+    margin-bottom: 48px;
+}
+.find-program__mail {
 
 }
-. {
-
+.find-program__button {
+    background-color: #19191C;
+    padding: 16px 36px;
+    border: none;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1;
+    color: #FBFBFC;
+    cursor: pointer;
+    margin-top: 68px;
 }
-. {
-
-}
-. {
-
-}
-. {
-
-}
-. {
-
-}
-. {
-
-}
-. {
-
-}
-. {
-
-}
-. {
-
-}
-. {
-
-}
-. {
-
-}
-. {
-
-}
-. {
-
-}
-. {
-
-}
+/* FIND-PROGRAM SECTION END */
 
 /* FOOTER */
 .footer {
